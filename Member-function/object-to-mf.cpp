@@ -1,3 +1,5 @@
+/*passing class type parameters (objects) to member function*/
+
 #include<iostream>
 using namespace std;
 
